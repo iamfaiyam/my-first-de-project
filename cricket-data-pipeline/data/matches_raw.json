@@ -1,0 +1,783 @@
+{
+    "apikey": "9fc45154-1dd7-4a1d-adf2-fd8297f0d9ca",
+    "data": [
+        {
+            "id": "9ce79e37-56e1-4f02-88c9-0a7534f46d8e",
+            "name": "Costa Rica Women vs Chile Women, 3rd T20I, Chile Women tour of Costa Rica 2026",
+            "matchType": "t20",
+            "status": "Match starts at Apr 26, 15:00 GMT",
+            "venue": "Los Reyes Polo Club , Guacima",
+            "date": "2026-04-26",
+            "dateTimeGMT": "2026-04-26T15:00:00",
+            "teams": [
+                "Costa Rica Women",
+                "Chile Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Chile Women",
+                    "shortname": "CW",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Costa Rica Women",
+                    "shortname": "CRW",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "6f328f01-a591-4f0c-8104-d2fa2c193216",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "3f683268-d9da-4faa-a4f7-3fb81b5679e4",
+            "name": "Costa Rica Women vs Chile Women, 2nd T20I, Chile Women tour of Costa Rica 2026",
+            "matchType": "t20",
+            "status": "Match starts at Apr 25, 15:00 GMT",
+            "venue": "Los Reyes Polo Club , Guacima",
+            "date": "2026-04-25",
+            "dateTimeGMT": "2026-04-25T15:00:00",
+            "teams": [
+                "Costa Rica Women",
+                "Chile Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Chile Women",
+                    "shortname": "CW",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Costa Rica Women",
+                    "shortname": "CRW",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "6f328f01-a591-4f0c-8104-d2fa2c193216",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "f193ccf5-72c1-49ac-9427-bde5cfc50307",
+            "name": "Costa Rica Women vs Chile Women, 1st T20I, Chile Women tour of Costa Rica 2026",
+            "matchType": "t20",
+            "status": "Match starts at Apr 24, 15:00 GMT",
+            "venue": "Los Reyes Polo Club , Guacima",
+            "date": "2026-04-24",
+            "dateTimeGMT": "2026-04-24T15:00:00",
+            "teams": [
+                "Costa Rica Women",
+                "Chile Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Chile Women",
+                    "shortname": "CW",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Costa Rica Women",
+                    "shortname": "CRW",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "6f328f01-a591-4f0c-8104-d2fa2c193216",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "7e38f188-6d1d-4485-bea5-7d7088d00e1e",
+            "name": "India vs Afghanistan, 3rd ODI, Afghanistan tour of India 2026",
+            "status": "Match starts at Jun 20, 08:00 GMT",
+            "venue": "MA Chidambaram Stadium, Chennai",
+            "date": "2026-06-20",
+            "dateTimeGMT": "2026-06-20T08:00:00",
+            "teams": [
+                "India",
+                "Afghanistan"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Afghanistan",
+                    "shortname": "AFG",
+                    "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+                },
+                {
+                    "name": "India",
+                    "shortname": "IND",
+                    "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+                }
+            ],
+            "series_id": "3eb31b49-de81-4168-8a54-4d9b166c814a",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "6c30be59-97b1-4d0b-befb-313d45f117f4",
+            "name": "India vs Afghanistan, 2nd ODI, Afghanistan tour of India 2026",
+            "status": "Match starts at Jun 17, 08:00 GMT",
+            "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+            "date": "2026-06-17",
+            "dateTimeGMT": "2026-06-17T08:00:00",
+            "teams": [
+                "India",
+                "Afghanistan"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Afghanistan",
+                    "shortname": "AFG",
+                    "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+                },
+                {
+                    "name": "India",
+                    "shortname": "IND",
+                    "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+                }
+            ],
+            "series_id": "3eb31b49-de81-4168-8a54-4d9b166c814a",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "c77dc752-34b8-4188-a6cd-1fd7011d84a0",
+            "name": "India vs Afghanistan, 1st ODI, Afghanistan tour of India 2026",
+            "status": "Match starts at Jun 14, 08:00 GMT",
+            "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+            "date": "2026-06-14",
+            "dateTimeGMT": "2026-06-14T08:00:00",
+            "teams": [
+                "India",
+                "Afghanistan"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Afghanistan",
+                    "shortname": "AFG",
+                    "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+                },
+                {
+                    "name": "India",
+                    "shortname": "IND",
+                    "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+                }
+            ],
+            "series_id": "3eb31b49-de81-4168-8a54-4d9b166c814a",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "5d40014e-91aa-4c54-8943-f316d052f836",
+            "name": "India vs Afghanistan, One-off Test, Afghanistan tour of India 2026",
+            "status": "Match starts at Jun 06, 04:00 GMT",
+            "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",
+            "date": "2026-06-06",
+            "dateTimeGMT": "2026-06-06T04:00:00",
+            "teams": [
+                "India",
+                "Afghanistan"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Afghanistan",
+                    "shortname": "AFG",
+                    "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+                },
+                {
+                    "name": "India",
+                    "shortname": "IND",
+                    "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+                }
+            ],
+            "series_id": "3eb31b49-de81-4168-8a54-4d9b166c814a",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "e293dc74-c747-4625-b5a0-2e761ded149e",
+            "name": "Nepal vs United Arab Emirates, 2nd T20I, United Arab Emirates tour of Nepal 2026",
+            "matchType": "t20",
+            "status": "Match starts at Apr 21, 11:15 GMT",
+            "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+            "date": "2026-04-21",
+            "dateTimeGMT": "2026-04-21T11:15:00",
+            "teams": [
+                "Nepal",
+                "United Arab Emirates"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Nepal",
+                    "shortname": "NEP",
+                    "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "shortname": "UAE",
+                    "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
+                }
+            ],
+            "series_id": "43dd0e37-b370-4833-84b9-1f0d741540cd",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "cedfd8cf-bf9a-4695-92b4-c0ff60ff6c7e",
+            "name": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026",
+            "matchType": "t20",
+            "status": "UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
+            "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+            "date": "2026-04-20",
+            "dateTimeGMT": "2026-04-20T11:15:00",
+            "teams": [
+                "Nepal",
+                "United Arab Emirates"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Nepal",
+                    "shortname": "NEP",
+                    "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "shortname": "UAE",
+                    "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 122,
+                    "w": 8,
+                    "o": 18.5,
+                    "inning": "nepal Inning 1"
+                },
+                {
+                    "r": 78,
+                    "w": 4,
+                    "o": 8.5,
+                    "inning": "Nepal,United Arab Emirates Inning 1"
+                }
+            ],
+            "series_id": "43dd0e37-b370-4833-84b9-1f0d741540cd",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "0cd1ec7a-e581-4172-977b-06e8d0cdb78e",
+            "name": "Tbc vs Tbc, Final, Major League Cricket 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jul 19, 01:30 GMT",
+            "venue": "Oakland Coliseum, California",
+            "date": "2026-07-18",
+            "dateTimeGMT": "2026-07-18T00:00:00",
+            "teams": [
+                "Tbc",
+                "Tbc"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Tbc",
+                    "shortname": "TBC",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "ed486b54-afbd-4c42-be97-804988beebc1",
+            "name": "Tbc vs Tbc, Challenger (Loser of Q v Winner of E), Major League Cricket 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jul 17, 01:30 GMT",
+            "venue": "Oakland Coliseum, California",
+            "date": "2026-07-16",
+            "dateTimeGMT": "2026-07-16T00:00:00",
+            "teams": [
+                "Tbc",
+                "Tbc"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Tbc",
+                    "shortname": "TBC",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "9fdec011-d6ef-4e4e-b798-14a8ad0cbc1f",
+            "name": "Tbc vs Tbc, Eliminator (3v4), Major League Cricket 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jul 16, 01:30 GMT",
+            "venue": "Oakland Coliseum, California",
+            "date": "2026-07-15",
+            "dateTimeGMT": "2026-07-15T00:00:00",
+            "teams": [
+                "Tbc",
+                "Tbc"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Tbc",
+                    "shortname": "TBC",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "bc0b9b86-091f-4428-bd04-7affffa52bca",
+            "name": "Tbc vs Tbc, Qualifier (1v2), Major League Cricket 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jul 16, 21:30 GMT",
+            "venue": "Oakland Coliseum, California",
+            "date": "2026-07-15",
+            "dateTimeGMT": "2026-07-15T00:00:00",
+            "teams": [
+                "Tbc",
+                "Tbc"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Tbc",
+                    "shortname": "TBC",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "badd289a-eabb-4aff-a5ff-ec73d689ecdf",
+            "name": "Texas Super Kings vs Los Angeles Knight Riders, 30th Match, Major League Cricket 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jul 13, 00:30 GMT",
+            "venue": "Grand Prairie Stadium, Dallas",
+            "date": "2026-07-12",
+            "dateTimeGMT": "2026-07-12T00:00:00",
+            "teams": [
+                "Texas Super Kings",
+                "Los Angeles Knight Riders"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Los Angeles Knight Riders",
+                    "shortname": "LAKR",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Texas Super Kings",
+                    "shortname": "TSK",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "672b2f83-4f3b-4d04-9e57-21e88d277340",
+            "name": "Mi New York vs Washington Freedom, 29th Match, Major League Cricket 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jul 13, 20:30 GMT",
+            "venue": "Grand Prairie Stadium, Dallas",
+            "date": "2026-07-12",
+            "dateTimeGMT": "2026-07-12T00:00:00",
+            "teams": [
+                "Mi New York",
+                "Washington Freedom"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Mi New York",
+                    "shortname": "MNY",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Washington Freedom",
+                    "shortname": "WF",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "4979fbf8-1af7-4f7c-b691-2eb369fee405",
+            "name": "Seattle Orcas vs San Francisco Unicorns, 28th Match, Major League Cricket 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jul 12, 00:30 GMT",
+            "venue": "Grand Prairie Stadium, Dallas",
+            "date": "2026-07-11",
+            "dateTimeGMT": "2026-07-11T00:00:00",
+            "teams": [
+                "Seattle Orcas",
+                "San Francisco Unicorns"
+            ],
+            "teamInfo": [
+                {
+                    "name": "San Francisco Unicorns",
+                    "shortname": "SFU",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Seattle Orcas",
+                    "shortname": "SO",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "57054ef4-b696-4661-9a21-02bed6b3a80e",
+            "name": "Texas Super Kings vs Washington Freedom, 27th Match, Major League Cricket 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jul 12, 20:30 GMT",
+            "venue": "Grand Prairie Stadium, Dallas",
+            "date": "2026-07-11",
+            "dateTimeGMT": "2026-07-11T00:00:00",
+            "teams": [
+                "Texas Super Kings",
+                "Washington Freedom"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Texas Super Kings",
+                    "shortname": "TSK",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Washington Freedom",
+                    "shortname": "WF",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "4dddd6b6-60b6-4e1e-872a-94b0442b1f05",
+            "name": "San Francisco Unicorns vs Los Angeles Knight Riders, 26th Match, Major League Cricket 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jul 11, 00:30 GMT",
+            "venue": "Grand Prairie Stadium, Dallas",
+            "date": "2026-07-10",
+            "dateTimeGMT": "2026-07-10T00:00:00",
+            "teams": [
+                "San Francisco Unicorns",
+                "Los Angeles Knight Riders"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Los Angeles Knight Riders",
+                    "shortname": "LAKR",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "San Francisco Unicorns",
+                    "shortname": "SFU",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "237bdc23-34d9-4ad2-8736-6f080cfd200d",
+            "name": "Mi New York vs Seattle Orcas, 25th Match, Major League Cricket 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jul 11, 20:30 GMT",
+            "venue": "Grand Prairie Stadium, Dallas",
+            "date": "2026-07-10",
+            "dateTimeGMT": "2026-07-10T00:00:00",
+            "teams": [
+                "Mi New York",
+                "Seattle Orcas"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Mi New York",
+                    "shortname": "MNY",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Seattle Orcas",
+                    "shortname": "SO",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "bc84c057-2f7c-4e82-b084-494fd237f715",
+            "name": "Washington Freedom vs Los Angeles Knight Riders, 24th Match, Major League Cricket 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jul 10, 00:30 GMT",
+            "venue": "Grand Prairie Stadium, Dallas",
+            "date": "2026-07-09",
+            "dateTimeGMT": "2026-07-09T00:00:00",
+            "teams": [
+                "Washington Freedom",
+                "Los Angeles Knight Riders"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Los Angeles Knight Riders",
+                    "shortname": "LAKR",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Washington Freedom",
+                    "shortname": "WF",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "44a75bc2-cd81-42c8-b3a3-8ceb99cae32f",
+            "name": "Mi New York vs San Francisco Unicorns, 23rd Match, Major League Cricket 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jul 09, 00:30 GMT",
+            "venue": "Grand Prairie Stadium, Dallas",
+            "date": "2026-07-08",
+            "dateTimeGMT": "2026-07-08T00:00:00",
+            "teams": [
+                "Mi New York",
+                "San Francisco Unicorns"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Mi New York",
+                    "shortname": "MNY",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "San Francisco Unicorns",
+                    "shortname": "SFU",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "f5dc9ff6-d3f4-49b9-9c12-0d6c8f386003",
+            "name": "San Francisco Unicorns vs Mi New York, 22nd Match, Major League Cricket 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jul 06, 01:30 GMT",
+            "venue": "Knight Riders Cricket Field, Pomona",
+            "date": "2026-07-05",
+            "dateTimeGMT": "2026-07-05T00:00:00",
+            "teams": [
+                "San Francisco Unicorns",
+                "Mi New York"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Mi New York",
+                    "shortname": "MNY",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "San Francisco Unicorns",
+                    "shortname": "SFU",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "4207efd2-7925-4538-bb9a-31fa695cdbc7",
+            "name": "Seattle Orcas vs Texas Super Kings, 21st Match, Major League Cricket 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jul 06, 21:30 GMT",
+            "venue": "Knight Riders Cricket Field, Pomona",
+            "date": "2026-07-05",
+            "dateTimeGMT": "2026-07-05T00:00:00",
+            "teams": [
+                "Seattle Orcas",
+                "Texas Super Kings"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Seattle Orcas",
+                    "shortname": "SO",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Texas Super Kings",
+                    "shortname": "TSK",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "64392fc4-4fc3-4876-857d-b48fd380aac0",
+            "name": "Los Angeles Knight Riders vs Mi New York, 20th Match, Major League Cricket 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jul 05, 01:30 GMT",
+            "venue": "Knight Riders Cricket Field, Pomona",
+            "date": "2026-07-04",
+            "dateTimeGMT": "2026-07-04T00:00:00",
+            "teams": [
+                "Los Angeles Knight Riders",
+                "Mi New York"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Los Angeles Knight Riders",
+                    "shortname": "LAKR",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Mi New York",
+                    "shortname": "MNY",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "eeb3e4e1-395c-40e8-92d5-dd0f980d640f",
+            "name": "Washington Freedom vs San Francisco Unicorns, 19th Match, Major League Cricket 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jul 05, 21:30 GMT",
+            "venue": "Knight Riders Cricket Field, Pomona",
+            "date": "2026-07-04",
+            "dateTimeGMT": "2026-07-04T00:00:00",
+            "teams": [
+                "Washington Freedom",
+                "San Francisco Unicorns"
+            ],
+            "teamInfo": [
+                {
+                    "name": "San Francisco Unicorns",
+                    "shortname": "SFU",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Washington Freedom",
+                    "shortname": "WF",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        }
+    ],
+    "status": "success",
+    "info": {
+        "hitsToday": 5,
+        "hitsUsed": 1,
+        "hitsLimit": 100,
+        "credits": 0,
+        "server": 10,
+        "offsetRows": 0,
+        "totalRows": 14538,
+        "queryTime": 167.507,
+        "s": 0,
+        "cache": 0
+    }
+}
