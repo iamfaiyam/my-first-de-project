@@ -1,0 +1,793 @@
+{
+    "apikey": "9fc45154-1dd7-4a1d-adf2-fd8297f0d9ca",
+    "data": [
+        {
+            "id": "7bf1d231-b30f-4a80-aad7-a39890fe1b42",
+            "name": "Eswatini vs Lesotho, 9th Match, Lesotho and Mozambique tour of Eswatini, 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jun 07, 07:00 GMT",
+            "venue": "Malkerns Country Club oval, Malkerns",
+            "date": "2026-06-07",
+            "dateTimeGMT": "2026-06-07T07:00:00",
+            "teams": [
+                "Eswatini",
+                "Lesotho"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Eswatini",
+                    "shortname": "EWZ",
+                    "img": "https://g.cricapi.com/iapi/602-637876983785379790.webp?w=48"
+                },
+                {
+                    "name": "Lesotho",
+                    "shortname": "LES",
+                    "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
+                }
+            ],
+            "series_id": "7510a3b3-cfb5-4b0c-864e-e8473fb7d25f",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "06cb8494-4773-4788-bdbc-209ece70d874",
+            "name": "Lesotho vs Mozambique, 8th Match, Lesotho and Mozambique tour of Eswatini, 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jun 06, 12:00 GMT",
+            "venue": "Malkerns Country Club oval, Malkerns",
+            "date": "2026-06-06",
+            "dateTimeGMT": "2026-06-06T12:00:00",
+            "teams": [
+                "Lesotho",
+                "Mozambique"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Lesotho",
+                    "shortname": "LES",
+                    "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
+                },
+                {
+                    "name": "Mozambique",
+                    "shortname": "MOZ",
+                    "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
+                }
+            ],
+            "series_id": "7510a3b3-cfb5-4b0c-864e-e8473fb7d25f",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "5c42a3d2-1957-428a-a5a2-cd809c4dec41",
+            "name": "Eswatini vs Mozambique, 7th Match, Lesotho and Mozambique tour of Eswatini, 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jun 06, 07:00 GMT",
+            "venue": "Malkerns Country Club oval, Malkerns",
+            "date": "2026-06-06",
+            "dateTimeGMT": "2026-06-06T07:00:00",
+            "teams": [
+                "Eswatini",
+                "Mozambique"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Eswatini",
+                    "shortname": "EWZ",
+                    "img": "https://g.cricapi.com/iapi/602-637876983785379790.webp?w=48"
+                },
+                {
+                    "name": "Mozambique",
+                    "shortname": "MOZ",
+                    "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
+                }
+            ],
+            "series_id": "7510a3b3-cfb5-4b0c-864e-e8473fb7d25f",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "1ca7b66b-56cd-4743-9c9d-0a361f312048",
+            "name": "Lesotho vs Eswatini, 6th Match, Lesotho and Mozambique tour of Eswatini, 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jun 04, 12:00 GMT",
+            "venue": "Malkerns Country Club oval, Malkerns",
+            "date": "2026-06-04",
+            "dateTimeGMT": "2026-06-04T12:00:00",
+            "teams": [
+                "Lesotho",
+                "Eswatini"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Eswatini",
+                    "shortname": "EWZ",
+                    "img": "https://g.cricapi.com/iapi/602-637876983785379790.webp?w=48"
+                },
+                {
+                    "name": "Lesotho",
+                    "shortname": "LES",
+                    "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
+                }
+            ],
+            "series_id": "7510a3b3-cfb5-4b0c-864e-e8473fb7d25f",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "9cffeee6-abc1-49cc-87a4-04e89a18bcb5",
+            "name": "Mozambique vs Lesotho, 5th Match, Lesotho and Mozambique tour of Eswatini, 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jun 04, 07:00 GMT",
+            "venue": "Malkerns Country Club oval, Malkerns",
+            "date": "2026-06-04",
+            "dateTimeGMT": "2026-06-04T07:00:00",
+            "teams": [
+                "Mozambique",
+                "Lesotho"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Lesotho",
+                    "shortname": "LES",
+                    "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
+                },
+                {
+                    "name": "Mozambique",
+                    "shortname": "MOZ",
+                    "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
+                }
+            ],
+            "series_id": "7510a3b3-cfb5-4b0c-864e-e8473fb7d25f",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "df1897ec-a488-4050-8d70-fc3730a4aeae",
+            "name": "Mozambique vs Eswatini, 4th Match, Lesotho and Mozambique tour of Eswatini, 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jun 03, 12:00 GMT",
+            "venue": "Malkerns Country Club oval, Malkerns",
+            "date": "2026-06-03",
+            "dateTimeGMT": "2026-06-03T12:00:00",
+            "teams": [
+                "Mozambique",
+                "Eswatini"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Eswatini",
+                    "shortname": "EWZ",
+                    "img": "https://g.cricapi.com/iapi/602-637876983785379790.webp?w=48"
+                },
+                {
+                    "name": "Mozambique",
+                    "shortname": "MOZ",
+                    "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
+                }
+            ],
+            "series_id": "7510a3b3-cfb5-4b0c-864e-e8473fb7d25f",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "cf7cfb49-40bc-4837-962a-92bb8763f6d9",
+            "name": "Eswatini vs Lesotho, 3rd Match, Lesotho and Mozambique tour of Eswatini, 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jun 03, 07:00 GMT",
+            "venue": "Malkerns Country Club oval, Malkerns",
+            "date": "2026-06-03",
+            "dateTimeGMT": "2026-06-03T07:00:00",
+            "teams": [
+                "Eswatini",
+                "Lesotho"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Eswatini",
+                    "shortname": "EWZ",
+                    "img": "https://g.cricapi.com/iapi/602-637876983785379790.webp?w=48"
+                },
+                {
+                    "name": "Lesotho",
+                    "shortname": "LES",
+                    "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
+                }
+            ],
+            "series_id": "7510a3b3-cfb5-4b0c-864e-e8473fb7d25f",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "e3f2674f-79c9-45d0-9aa3-119e439eb2fa",
+            "name": "Lesotho vs Mozambique, 2nd Match, Lesotho and Mozambique tour of Eswatini, 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jun 02, 12:00 GMT",
+            "venue": "Malkerns Country Club oval, Malkerns",
+            "date": "2026-06-02",
+            "dateTimeGMT": "2026-06-02T12:00:00",
+            "teams": [
+                "Lesotho",
+                "Mozambique"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Lesotho",
+                    "shortname": "LES",
+                    "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
+                },
+                {
+                    "name": "Mozambique",
+                    "shortname": "MOZ",
+                    "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
+                }
+            ],
+            "series_id": "7510a3b3-cfb5-4b0c-864e-e8473fb7d25f",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "fbe45d3d-300d-49a4-925a-0bbd7cc626cc",
+            "name": "Eswatini vs Mozambique, 1st Match, Lesotho and Mozambique tour of Eswatini, 2026",
+            "matchType": "t20",
+            "status": "Match starts at Jun 02, 07:00 GMT",
+            "venue": "Malkerns Country Club oval, Malkerns",
+            "date": "2026-06-02",
+            "dateTimeGMT": "2026-06-02T07:00:00",
+            "teams": [
+                "Eswatini",
+                "Mozambique"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Eswatini",
+                    "shortname": "EWZ",
+                    "img": "https://g.cricapi.com/iapi/602-637876983785379790.webp?w=48"
+                },
+                {
+                    "name": "Mozambique",
+                    "shortname": "MOZ",
+                    "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
+                }
+            ],
+            "series_id": "7510a3b3-cfb5-4b0c-864e-e8473fb7d25f",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "076c6497-4d6f-4ba5-9b85-963095895fb2",
+            "name": "Botswana vs Rwanda, 21st Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+            "matchType": "t20",
+            "status": "Match starts at May 30, 11:50 GMT",
+            "venue": "Botswana Cricket Association Oval 1, Gaborone",
+            "date": "2026-05-30",
+            "dateTimeGMT": "2026-05-30T11:50:00",
+            "teams": [
+                "Botswana",
+                "Rwanda"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Botswana",
+                    "shortname": "BOT",
+                    "img": "https://g.cricapi.com/iapi/589-637867438995934034.webp?w=48"
+                },
+                {
+                    "name": "Rwanda",
+                    "shortname": "RWN",
+                    "img": "https://g.cricapi.com/iapi/646-637873697602208351.webp?w=48"
+                }
+            ],
+            "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "e61c02fb-6669-4e7f-835b-b5a87adc3914",
+            "name": "Ivory Coast vs Kenya, 20th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+            "matchType": "t20",
+            "status": "Match starts at May 30, 07:30 GMT",
+            "venue": "Botswana Cricket Association Oval 2, Gaborone",
+            "date": "2026-05-30",
+            "dateTimeGMT": "2026-05-30T07:30:00",
+            "teams": [
+                "Ivory Coast",
+                "Kenya"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Ivory Coast",
+                    "shortname": "IC",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Kenya",
+                    "shortname": "KEN",
+                    "img": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=48"
+                }
+            ],
+            "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "11e689cd-74df-4c61-8f5b-96f9b1d9d0a5",
+            "name": "Mali vs Sierra Leone, 19th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+            "matchType": "t20",
+            "status": "Match starts at May 30, 07:30 GMT",
+            "venue": "Botswana Cricket Association Oval 1, Gaborone",
+            "date": "2026-05-30",
+            "dateTimeGMT": "2026-05-30T07:30:00",
+            "teams": [
+                "Mali",
+                "Sierra Leone"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Mali",
+                    "shortname": "ML",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Sierra Leone",
+                    "shortname": "SLE",
+                    "img": "https://g.cricapi.com/iapi/653-637870989563858219.webp?w=48"
+                }
+            ],
+            "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "4325b3da-0765-4ff7-bc57-48c93dafb7e2",
+            "name": "Botswana vs Kenya, 18th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+            "matchType": "t20",
+            "status": "Match starts at May 29, 11:50 GMT",
+            "venue": "Botswana Cricket Association Oval 2, Gaborone",
+            "date": "2026-05-29",
+            "dateTimeGMT": "2026-05-29T11:50:00",
+            "teams": [
+                "Botswana",
+                "Kenya"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Botswana",
+                    "shortname": "BOT",
+                    "img": "https://g.cricapi.com/iapi/589-637867438995934034.webp?w=48"
+                },
+                {
+                    "name": "Kenya",
+                    "shortname": "KEN",
+                    "img": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=48"
+                }
+            ],
+            "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "bf52a1a9-f0fb-46e2-9309-e23ee7543f01",
+            "name": "Cameroon vs Mali, 16th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+            "matchType": "t20",
+            "status": "Match starts at May 29, 07:30 GMT",
+            "venue": "Botswana Cricket Association Oval 1, Gaborone",
+            "date": "2026-05-29",
+            "dateTimeGMT": "2026-05-29T07:30:00",
+            "teams": [
+                "Cameroon",
+                "Mali"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Cameroon",
+                    "shortname": "CAM",
+                    "img": "https://g.cricapi.com/iapi/2415-637992079740539457.webp?w=48"
+                },
+                {
+                    "name": "Mali",
+                    "shortname": "ML",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "ee5a57eb-da03-4fea-885f-265f5bfd9881",
+            "name": "Ivory Coast vs Sierra Leone, 17th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+            "matchType": "t20",
+            "status": "Match starts at May 29, 07:30 GMT",
+            "venue": "Botswana Cricket Association Oval 2, Gaborone",
+            "date": "2026-05-29",
+            "dateTimeGMT": "2026-05-29T07:30:00",
+            "teams": [
+                "Ivory Coast",
+                "Sierra Leone"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Ivory Coast",
+                    "shortname": "IC",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Sierra Leone",
+                    "shortname": "SLE",
+                    "img": "https://g.cricapi.com/iapi/653-637870989563858219.webp?w=48"
+                }
+            ],
+            "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "d9a4bae6-3ed7-4751-b98a-7408f9f4d54f",
+            "name": "Cameroon vs Kenya, 15th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+            "matchType": "t20",
+            "status": "Match starts at May 28, 11:50 GMT",
+            "venue": "Botswana Cricket Association Oval 1, Gaborone",
+            "date": "2026-05-28",
+            "dateTimeGMT": "2026-05-28T11:50:00",
+            "teams": [
+                "Cameroon",
+                "Kenya"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Cameroon",
+                    "shortname": "CAM",
+                    "img": "https://g.cricapi.com/iapi/2415-637992079740539457.webp?w=48"
+                },
+                {
+                    "name": "Kenya",
+                    "shortname": "KEN",
+                    "img": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=48"
+                }
+            ],
+            "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "8f797f9c-d7cd-4442-8864-648763b51a4b",
+            "name": "Rwanda vs Sierra Leone, 14th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+            "matchType": "t20",
+            "status": "Match starts at May 28, 07:30 GMT",
+            "venue": "Botswana Cricket Association Oval 2, Gaborone",
+            "date": "2026-05-28",
+            "dateTimeGMT": "2026-05-28T07:30:00",
+            "teams": [
+                "Rwanda",
+                "Sierra Leone"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Rwanda",
+                    "shortname": "RWN",
+                    "img": "https://g.cricapi.com/iapi/646-637873697602208351.webp?w=48"
+                },
+                {
+                    "name": "Sierra Leone",
+                    "shortname": "SLE",
+                    "img": "https://g.cricapi.com/iapi/653-637870989563858219.webp?w=48"
+                }
+            ],
+            "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "9344d3be-6a9e-4de7-9997-576fe0c690b2",
+            "name": "Botswana vs Ivory Coast, 13th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+            "matchType": "t20",
+            "status": "Match starts at May 28, 07:30 GMT",
+            "venue": "Botswana Cricket Association Oval 1, Gaborone",
+            "date": "2026-05-28",
+            "dateTimeGMT": "2026-05-28T07:30:00",
+            "teams": [
+                "Botswana",
+                "Ivory Coast"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Botswana",
+                    "shortname": "BOT",
+                    "img": "https://g.cricapi.com/iapi/589-637867438995934034.webp?w=48"
+                },
+                {
+                    "name": "Ivory Coast",
+                    "shortname": "IC",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "f7af6be7-47c2-4f94-8255-e88ea9a08c05",
+            "name": "Kenya vs Sierra Leone, 11th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+            "matchType": "t20",
+            "status": "Match starts at May 26, 11:50 GMT",
+            "venue": "Botswana Cricket Association Oval 1, Gaborone",
+            "date": "2026-05-26",
+            "dateTimeGMT": "2026-05-26T11:50:00",
+            "teams": [
+                "Kenya",
+                "Sierra Leone"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Kenya",
+                    "shortname": "KEN",
+                    "img": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=48"
+                },
+                {
+                    "name": "Sierra Leone",
+                    "shortname": "SLE",
+                    "img": "https://g.cricapi.com/iapi/653-637870989563858219.webp?w=48"
+                }
+            ],
+            "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "346d22c5-b649-42b8-97be-a09a981fdeec",
+            "name": "Cameroon vs Ivory Coast, 12th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+            "matchType": "t20",
+            "status": "Match starts at May 26, 11:50 GMT",
+            "venue": "Botswana Cricket Association Oval 2, Gaborone",
+            "date": "2026-05-26",
+            "dateTimeGMT": "2026-05-26T11:50:00",
+            "teams": [
+                "Cameroon",
+                "Ivory Coast"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Cameroon",
+                    "shortname": "CAM",
+                    "img": "https://g.cricapi.com/iapi/2415-637992079740539457.webp?w=48"
+                },
+                {
+                    "name": "Ivory Coast",
+                    "shortname": "IC",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "96afb362-402a-4a93-bd81-235f853aef94",
+            "name": "Mali vs Rwanda, 10th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+            "matchType": "t20",
+            "status": "Match starts at May 26, 07:30 GMT",
+            "venue": "Botswana Cricket Association Oval 2, Gaborone",
+            "date": "2026-05-26",
+            "dateTimeGMT": "2026-05-26T07:30:00",
+            "teams": [
+                "Mali",
+                "Rwanda"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Mali",
+                    "shortname": "ML",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Rwanda",
+                    "shortname": "RWN",
+                    "img": "https://g.cricapi.com/iapi/646-637873697602208351.webp?w=48"
+                }
+            ],
+            "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "fa23f07c-d0a3-400b-8a79-333af36bde14",
+            "name": "Ivory Coast vs Mali, 9th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+            "matchType": "t20",
+            "status": "Match starts at May 25, 11:50 GMT",
+            "venue": "Botswana Cricket Association Oval 2, Gaborone",
+            "date": "2026-05-25",
+            "dateTimeGMT": "2026-05-25T11:50:00",
+            "teams": [
+                "Ivory Coast",
+                "Mali"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Ivory Coast",
+                    "shortname": "IC",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Mali",
+                    "shortname": "ML",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "0ee09ff1-197f-49e5-a549-691e0047f06c",
+            "name": "Botswana vs Cameroon, 8th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+            "matchType": "t20",
+            "status": "Match starts at May 25, 07:30 GMT",
+            "venue": "Botswana Cricket Association Oval 2, Gaborone",
+            "date": "2026-05-25",
+            "dateTimeGMT": "2026-05-25T07:30:00",
+            "teams": [
+                "Botswana",
+                "Cameroon"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Botswana",
+                    "shortname": "BOT",
+                    "img": "https://g.cricapi.com/iapi/589-637867438995934034.webp?w=48"
+                },
+                {
+                    "name": "Cameroon",
+                    "shortname": "CAM",
+                    "img": "https://g.cricapi.com/iapi/2415-637992079740539457.webp?w=48"
+                }
+            ],
+            "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "63fc0547-509d-4738-9a35-4668c79cef4a",
+            "name": "Kenya vs Rwanda, 7th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+            "matchType": "t20",
+            "status": "Match starts at May 25, 07:30 GMT",
+            "venue": "Botswana Cricket Association Oval 1, Gaborone",
+            "date": "2026-05-25",
+            "dateTimeGMT": "2026-05-25T07:30:00",
+            "teams": [
+                "Kenya",
+                "Rwanda"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Kenya",
+                    "shortname": "KEN",
+                    "img": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=48"
+                },
+                {
+                    "name": "Rwanda",
+                    "shortname": "RWN",
+                    "img": "https://g.cricapi.com/iapi/646-637873697602208351.webp?w=48"
+                }
+            ],
+            "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "dff09ae1-3ad5-4ca6-aa4f-e5de078fb2d0",
+            "name": "Botswana vs Mali, 5th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+            "matchType": "t20",
+            "status": "Match starts at May 24, 11:50 GMT",
+            "venue": "Botswana Cricket Association Oval 1, Gaborone",
+            "date": "2026-05-24",
+            "dateTimeGMT": "2026-05-24T11:50:00",
+            "teams": [
+                "Botswana",
+                "Mali"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Botswana",
+                    "shortname": "BOT",
+                    "img": "https://g.cricapi.com/iapi/589-637867438995934034.webp?w=48"
+                },
+                {
+                    "name": "Mali",
+                    "shortname": "ML",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        }
+    ],
+    "status": "success",
+    "info": {
+        "hitsToday": 6,
+        "hitsUsed": 1,
+        "hitsLimit": 100,
+        "credits": 0,
+        "server": 5,
+        "offsetRows": 0,
+        "totalRows": 14969,
+        "queryTime": 191.1212,
+        "s": 0,
+        "cache": 0
+    }
+}
